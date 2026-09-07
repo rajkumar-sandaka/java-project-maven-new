@@ -130,7 +130,7 @@
             <div class="card">
                 <img src="./assets/img/poster 6.png" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Avengers</h2>
+                    <h2 class="name">Avenger</h2>
                     <h6 class="des">Khush Hello dolor hello consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
